@@ -1,6 +1,6 @@
 package lectures.par2oops
 
-object InheritanceAndTraits extends App{
+object Inheritance extends App{
   //Single class inheritance
   sealed class Animal{ //sealed is preventing extend in other files
     val creatureType = "Wild"
